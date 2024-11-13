@@ -1,0 +1,5 @@
+.idea
+node_modules
+build
+extension
+chrome-extension.zip
